@@ -1,0 +1,84 @@
+.schoolgebouw{
+    display: flex;
+    justify-content: center;
+    transform: scale(0.6);
+    margin-top: -11%;
+}
+
+.opendaginfo{
+    display: flex;
+    justify-content: center;
+    margin-left: 33%;
+    margin-right: 30%;
+}
+
+.opendagtitel{
+    display: flex;
+    justify-content: center;
+    margin-left: 30%;
+    margin-right: 33%;
+
+}
+
+.vakfoto{
+    display: flex;
+    justify-content: space-between;
+    padding: 50px;
+    margin: 40px;
+    transform: scale(0.8);
+    margin-top: -4%;
+}
+
+.roosterfoto{
+    display: flex;
+    justify-content: center;
+    transform: scale(0.7);
+    margin-top: -7%;
+}
+
+body{
+    background-image: url(../img/codes.jpg);
+}
+
+nav a{
+    font-size: large;
+    color: rgb(180, 47, 17);
+    justify-content: space-between;
+    margin: 150px;
+    border-style: outset;
+    border-color: yellow;
+    text-decoration: none;
+}
+p{
+    color: white;
+}
+h2{
+    color: white;
+}
+h1{
+    color: rgb(16, 198, 16);
+}
+
+.elton img{
+        width: 100px;
+}
+
+.michel img{
+    width: 100px;
+}
+.eva img{
+    width: 100px;
+}
+.ine img{
+    width: 100px;
+}
+.leraren{
+    display: flex;
+    justify-content: center;
+    margin-top: -35%;
+    transform: scale(1.0);
+    margin-right: -8%;
+}
+
+
+
