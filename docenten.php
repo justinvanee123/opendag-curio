@@ -10,19 +10,19 @@
 <body>
     <main>
         <div class="elton">
-        <p>elton boekhoudt: geeft web development.</p>
+        <p>Elton Boekhoudt: geeft web development.</p>
         <img src="img/elton.jpg" alt="elton">
         </div>
         <div class="michel">
-        <p> michel meeuwesen: geeft praktijk en pro actief.</p>
+        <p> Michel Meeuwesen: geeft praktijk en pro actief.</p>
         <img src="img/michel.jpg" alt="michel">
         </div>
         <div class="eva">
-        <p>eva van os: geeft pro actief.</p>
+        <p>Eva van Os: geeft pro actief.</p>
         <img src="img/eva.jpg" alt="eva">
         </div>
         <div class="ine">
-        <p>ine vermeer: geeft web.</p>
+        <p>Ine Vermeer: geeft web.</p>
         <img src="img/ine.jpg" alt="ine">
         </div>
         <div class="leraren">
