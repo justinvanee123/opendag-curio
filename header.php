@@ -1,6 +1,6 @@
 <header>
         <div class="wrapper">
-            <h1>curio opendag</h1>
+            <h1>curio </h1>
             <nav>
                 <a href="index.php">home</a>
                 <a href="vakken.php">vakken</a>

@@ -46,7 +46,7 @@ nav a{
     justify-content: space-between;
     margin: 150px;
     border-style: outset;
-    border-color: yellow;
+    border-color: rgb(175, 175, 39);
     text-decoration: none;
 }
 p{
