@@ -79,6 +79,9 @@ h1{
     transform: scale(1.0);
     margin-right: -8%;
 }
-
+.hamburger{
+    font-size: 40px;
+    color: red;
+}
 
 
