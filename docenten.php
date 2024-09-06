@@ -26,7 +26,7 @@
         <img src="img/ine.jpg" alt="ine">
         </div>
         <div class="leraren">
-        <img src="img/leraren.jpg" alt="leraren">
+        <img src="img/docenten.jpg" alt="leraren">
         </div>
     </main>
 

@@ -60,7 +60,7 @@ h1{
 }
 
 .elton img{
-        width: 100px;
+    width: 100px;
 }
 
 .michel img{
@@ -83,5 +83,21 @@ h1{
     font-size: 40px;
     color: red;
 }
+.logo img{
+    width: 100px;
+}
 
-
+@media only screen and (max-width: 768px) {
+    /* Stijlen voor schermen kleiner dan 768px, bijvoorbeeld smartphones */
+    body {
+      font-size: 16px;
+    }
+    .container {
+      width: 100%;
+      padding: 10px;
+    }
+  }
+  img {
+    max-width: 100%;
+    height: auto;
+  }

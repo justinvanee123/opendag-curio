@@ -8,7 +8,9 @@
 </head>
 <header>
         <div class="wrapper">
-            <h1>curio </h1>
+            <div class="logo">
+            <img src="img/logo.png" alt="logo">
+            </div>
             <div class="navbar">
         <div class="hamburger" onclick="toggleNavbar()">
             &#9776; <!-- Hamburger menu icon -->

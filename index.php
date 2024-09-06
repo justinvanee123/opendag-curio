@@ -18,7 +18,7 @@
     <h2>de opendag van curio terheijdesweg 350</h2>
     </div>
     <div class="opendaginfo">
-    <p>Curio krijgt binnenkort een opendag je kan kijken hoe wij te werk gaan met html,php,css,python en c#. We leggen uit hoe wij te werk gaan en u kunt van alles vragen er zullen meerdere docenten aanwezig zijn. Dan kunt u meteen kennis maken met uw toekomstige docent we hopen u te zien op de opendag. tot dan! </p>
+    <p>Curio krijgt binnenkort een opendag je kan kijken hoe wij te werk gaan met html,php,css,python en c#. We leggen uit hoe wij te werk gaan en u kunt van alles vragen er zullen meerdere docenten aanwezig zijn zodat u meteen kennis kunt maken met uw toekomstige docent we hopen u te zien op de opendag. tot dan! </p>
     </div>
     <div class="schoolgebouw">
     <img src="img/curio.jpg" alt="schoolgebouw">
