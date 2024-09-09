@@ -8,7 +8,7 @@
 </head>
 <?php require_once('header.php'); ?>
 <body>
-    <main>
+    <main class="docenten">
         <div class="elton">
         <p>Elton Boekhoudt: geeft web development.</p>
         <img src="img/elton.jpg" alt="elton">
@@ -24,9 +24,6 @@
         <div class="ine">
         <p>Ine Vermeer: geeft web.</p>
         <img src="img/ine.jpg" alt="ine">
-        </div>
-        <div class="leraren">
-        <img src="img/docenten.jpg" alt="leraren">
         </div>
     </main>
 
